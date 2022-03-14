@@ -26,3 +26,4 @@ def get_data():
         return render_template('home.html',result=result)
 
 app.run()
+#https://pythonbasics.org/flask-template-data/
