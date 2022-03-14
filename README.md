@@ -1,7 +1,7 @@
 # arabic_dialects_tweets_classification
 
 This project consists of the following steps :
-## Step 1 : 
+## Step 1 : <a href='https://github.com/omar1890/arabic_dialects_tweets_classification/blob/master/01_fetch_data.ipynb'>corresponding file</a>
 - I have a *file1 with dataset contains ID and Target classes of arabic dialects (18) 
 - I need to scrape the text of tweets from specific API with ID from *file1
 - Merge two files based on IDs and apply some EDA 
