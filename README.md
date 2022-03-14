@@ -34,8 +34,10 @@ This project consists of the following steps :
 - applying stemming is not the best (by make a quick comparsion betweent columns and also the accuracy) 
 - removing stopwords affect good
 - I think, I have made a good cleaning but it didn't reflect best in the accuracy 
+- I couldn't apply NN since I have a limit resources but I think after tuning it may get best result
 ## Future Work : 
 - try to apply lemmitization 
 - hyper parameter tuning for models 
 - try tuning for Countvectorizer and TFIDF
 - Try tree-based models like XGB
+- Try to apply NN well
