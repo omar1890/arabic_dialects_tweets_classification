@@ -42,5 +42,6 @@ This project consists of the following steps :
 - try tuning for Countvectorizer and TFIDF
 - Try tree-based models like XGB
 - Try to apply NN well
+- Build a dashboard with visualization
 
 # Note: You can find used resources through notebooks
